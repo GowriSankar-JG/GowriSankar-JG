@@ -6,7 +6,7 @@ I'm currently a "Student Intern" at Data Science & Analytics Centre [DSAC](dsack
 - 🌱 I’m currently learning Ruby On Rails, Flutter.
 - 💬 Ask me about Anything and Everything !
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gowrisankar-jg/)
-- 😄 Pronouns: Sidd !
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: You've seen more of the surface of the moon, with your own eyes, than you have of the Earth. 
 
 [My Content Writing](https://medium.com/@jggowrisankar)
