@@ -9,6 +9,6 @@ I'm currently a "Student Intern" at Data Science & Analytics Centre [DSAC](dsack
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: You've seen more of the surface of the moon, with your own eyes, than you have of the Earth. 
 
-[My Content Writing](https://medium.com/@jggowrisankar)
+[My Contribution to Data Science and Programming](https://medium.com/@jggowrisankar)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=GowriSankar-JG&show_icons=true&cache_seconds=86400) 
