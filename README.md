@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 
 
 I'm currently a "<em>Student Intern</em>" at Data Science & Analytics Centre [DSAC](dsackce.com/)
 
@@ -10,5 +10,7 @@ I'm currently a "<em>Student Intern</em>" at Data Science & Analytics Centre [DS
 - ⚡ Fun fact: You've seen more of the surface of the moon, with your own eyes, than you have of the Earth. 
 
 [My Contribution to Data Science and Programming](https://medium.com/@jggowrisankar)
+
+## [More About Me](https://gowrisankar-jg.github.io/gowrisankarjg.github.io/)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=GowriSankar-JG&show_icons=true&cache_seconds=86400) 
