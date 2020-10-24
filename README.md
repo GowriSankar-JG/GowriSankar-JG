@@ -9,7 +9,7 @@ I'm currently a "<em>Student Intern</em>" at Data Science & Analytics Centre [DS
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: You've seen more of the surface of the moon, with your own eyes, than you have of the Earth. 
 
-[My Contribution to Data Science and Programming](https://medium.com/@jggowrisankar)
+[My Contribution to Data Science and Programming](https://jggowrisankar.medium.com/)
 
 ## [More About Me](https://gowrisankar-jg.github.io/gowrisankarjg.github.io/)
 
