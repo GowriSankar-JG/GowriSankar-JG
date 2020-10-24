@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-I'm currently a "<em>Student Intern</em>" at Data Science & Analytics Centre [DSAC](dsackce.com/)
+I'm currently a "<em>Student Intern</em>" at Data Science & Analytics Centre [DSAC](https://dsackce.com/)
 
 - 🔭 I’m currently working on Rasa.
 - 🌱 I’m currently learning Ruby On Rails, Flutter.
