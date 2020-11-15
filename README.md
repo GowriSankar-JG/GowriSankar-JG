@@ -3,7 +3,7 @@
 I'm currently a "<em>Student Intern</em>" at Data Science & Analytics Centre [DSAC](https://dsackce.com/)
 
 - 🔭 I’m currently working on Rasa.
-- 🌱 I’m currently learning Ruby On Rails, Flutter.
+- 🌱 I’m currently learning Rasa, Flutter.
 - 💬 Ask me about Anything and Everything !
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gowrisankar-jg/)
 - 😄 Pronouns: He/Him
