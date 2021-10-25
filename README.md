@@ -12,6 +12,6 @@ Previously a "<em>Student Intern</em>" at Data Science & Analytics Centre [DSAC]
 
 [My Contribution to Data Science and Programming Community](https://siddharthivan.medium.com/)
 
-## [More About Me](https://gowrisankar-jg.github.io/gowrisankarjg.github.io/)
+## [More About Me](https://gowrisankar-jg.github.io/profile/)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=GowriSankar-JG&show_icons=true&cache_seconds=86400) 
