@@ -3,7 +3,7 @@
 I'm currently a "<em>Software Engineer</em>" at IQZ Systems.
 
 - 🔭 I’m currently working and exploring t3-stack [t3 Stack](https://create.t3.gg/).
-- 🌱 Learning technologies include Rasa, Flutter.
+- 🌱 Learning technologies include ReactNative, Rasa, Flutter.
 - 💬 Ask me about Anything and Everything !
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gowrisankar-jg/)
 - 😄 Pronouns: He/Him
