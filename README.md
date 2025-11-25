@@ -25,13 +25,6 @@ Or anime characters who could solo your favourite protagonist.
 
 ---
 
-## 🌐 Connect With Me  
-- 🐙 **GitHub:** https://github.com/GowriSankar-JG  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/gowrisankar-jg/  
-- 📝 **Portfolio:** https://gowrisankar-jg.github.io/profile/  
-
----
-
 ## 📊 Stats Zone (because numbers look cool)
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=GowriSankar-JG&show_icons=true&theme=tokyonight" height="150" />
