@@ -35,6 +35,7 @@ Or anime characters who could solo your favourite protagonist.
 ## 📊 Stats Zone (because numbers look cool)
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=GowriSankar-JG&show_icons=true&theme=tokyonight" height="150" />
+  &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=GowriSankar-JG&layout=compact&theme=tokyonight" height="150" />
 </p>
 
