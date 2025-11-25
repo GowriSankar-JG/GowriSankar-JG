@@ -1,35 +1,56 @@
-### Hi there 👋 
+## 👋 About Me  
+I’m Gowrisankar JG, a **Full-Stack Software Engineer** who builds scalable systems, automates boring things, and crafting experiences that feel smooth on the surface (even if there’s a monster under the hood doing the work).”
 
-I'm currently a "<em>Software Engineer</em>" at IQZ Systems.
+Currently working at **IQZ Systems**, building:
+- ⚙️ AI-driven synthetic data platforms  
+- 🔐 Keycloak-powered secure backends  
+- 🛰️ Microservices that behave... most of the time  
+- 🧠 LLM/Automation tooling that makes devs' lives easier  
 
-- 🔭 I’m currently working and exploring t3-stack [t3 Stack](https://create.t3.gg/).
-- 🌱 Learning technologies include ReactNative, Rasa, Flutter.
-- 💬 Ask me about Anything and Everything !
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/gowrisankar-jg/)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: You've seen more of the surface of the moon, with your own eyes, than you have of the Earth. 
+Minimalist by design. Anime fan by nature. Sassy by accident.
 
-[My Contribution to Data Science and Programming Community](https://siddharthivan.medium.com/)
+---
 
-## [More About Me](https://gowrisankar-jg.github.io/profile/)
+## 🚀 What I'm Up To  
+- Architecting & scaling **ESGWize**, our enterprise compliance platform  
+- Breaking → fixing → refactoring → optimising backend systems  
+- Playing with **NestJS, Python, React-Vite, Prisma, NATS, Azure**  
+- Learning **React Native, Rasa, Flutter** for fun  
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=GowriSankar-JG&show_icons=true&cache_seconds=86400)
+---
 
-<hr/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=GowriSankar-JG&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="GowriSankar-JG" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=GowriSankar-JG&show_icons=true&locale=en&theme=chartreuse-dark" alt="GowriSankar-JG" width="410" /></p>
-<br><br><br><br><br>
-<hr>
+## 💬 Ask Me About  
+Backend engineering, auth, infra, microservices, system design, cloud architecture…  
+Or anime characters who could solo your favourite protagonist.
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=GowriSankar-JG&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
+---
 
+## 🌐 Connect With Me  
+- 🐙 **GitHub:** https://github.com/GowriSankar-JG  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/gowrisankar-jg/  
+- 📝 **Portfolio:** https://gowrisankar-jg.github.io/profile/  
 
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
+---
+
+## 📊 Stats Zone (because numbers look cool)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=GowriSankar-JG&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=GowriSankar-JG&layout=compact&theme=tokyonight" height="150" />
+</p>
 
 <p align="center">
-<div align=center>
-  <a href="https://github.com/GowriSankar-JG/JavaScriptCodingInterviewQuestions" title="Go to Source">
-      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=GowriSankar-JG&theme=onedark&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
+  <img src="https://streak-stats.vercel.app?user=GowriSankar-JG&theme=tokyonight" height="160" />
 </p>
+
+---
+
+## 🏆 Trophy Wall  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=GowriSankar-JG&theme=tokyonight&no-bg=true&margin-w=10" />
+</p>
+
+---
+
+## ✨ Fun Fact  
+You've seen more of the *Moon's* surface with your own eyes than of the *Earth*. And I’ve debugged more code than both combined.
+
