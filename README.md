@@ -127,6 +127,10 @@ I enjoy solving engineering problems that combine **AI, cloud infrastructure, ba
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=GowriSankar-JG&theme=tokyonight"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GowriSankar-JG&layout=compact&theme=chartreuse-dark" alt="Top Languages" />
+</p>
+
 ---
 
 
